@@ -35,9 +35,9 @@
 <h3 align="center" style="font-size:16px;">GitHub Stats & Current Streak</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorManuelLopezHenao&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorManuelLopezHenao&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="350"/>
   <!-- Current Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorManuelLopezHenao&theme=dark" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorManuelLopezHenao&theme=dark" alt="GitHub Streak" width="350"/>
 </div>
 
 <hr width="60%">
