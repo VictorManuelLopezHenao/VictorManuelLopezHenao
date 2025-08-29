@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
+<h1 align="center">Hi 👋, I'm Victor López</h1>
 
 <p align="center">
-  Systems Engineering student passionate about <b>Backend Development</b> and <b>Cybersecurity</b>
+  Systems and computing Engineering student passionate about <b>Backend Development</b> and <b>Cybersecurity</b>
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -34,10 +34,10 @@
 
 <h3 align="center" style="font-size:16px;">GitHub Stats & Current Streak</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorManuelLopezHenao&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="350"/>
+  <!-- GitHub Stats (ajustado al mismo alto que Streak) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorManuelLopezHenao&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" style="height: 200px; width:auto;" />
   <!-- Current Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorManuelLopezHenao&theme=dark" alt="GitHub Streak" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorManuelLopezHenao&theme=dark" alt="GitHub Streak" style="height: 200px; width:auto;" />
 </div>
 
 <hr width="60%">
