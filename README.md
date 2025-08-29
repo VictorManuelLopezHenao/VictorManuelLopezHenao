@@ -30,19 +30,19 @@
 <h3>GitHub Stats</h3>
 <p>
   <!-- Top Languages -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorManuelLopezHenao&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <br><br>
 
 <p>
   <!-- General GitHub Stats -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ANii693&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=VictorManuelLopezHenao&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 <br><br>
 
 <p>
   <!-- Streak -->
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ANii693&theme=dark" alt="GitHub Streak" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorManuelLopezHenao&theme=dark" alt="GitHub Streak" />
 </p>
 
 <hr width="60%">
