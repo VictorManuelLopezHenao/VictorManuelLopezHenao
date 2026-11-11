@@ -1,48 +1,73 @@
-<h1 align="center">Hi 👋, I'm Victor López</h1>
+# Victor López
 
 <p align="center">
-  Systems and Computing Engineering student passionate about Backend Development and Cybersecurity
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Penetration+Testing;Web+Application+Security;Bug+Bounty+%7C+Security+Research;Building+tools+with+Python" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-<h2 align="center">Languages & Tools:</h2>
-<p align="center" style="font-size:18px;">
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-  </a>
-</p>
-
-<h3 align="center" style="font-size:16px;">Most Used Languages:</h3>
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorManuelLopezHenao&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="350"/>
-</div>
-
-<h3 align="center" style="font-size:16px;">GitHub Stats & Current Streak</h3>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorManuelLopezHenao&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="350" height="200" style="object-fit: cover;" />
-  <!-- Current Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorManuelLopezHenao&theme=dark" alt="GitHub Streak" width="350" height="200" style="object-fit: cover;" />
-</div>
-
-<hr width="60%">
-
-<h3 align="center">Contact Me</h3>
 <p align="center">
+  <a href="https://www.linkedin.com/in/victor-manuel-lopez-henao-727035367/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://medium.com/@v.lopez9">
+    <img src="https://img.shields.io/badge/Medium-Writeups-black?style=flat-square&logo=medium" />
+  </a>
   <a href="mailto:v.lopez9@utp.edu.co">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Email-Contact-00FF9C?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+### About Me
+
+I'm a Systems and Computing Engineering student focused on **Offensive Security and Penetration Testing**.
+
+My interests include identifying and validating security vulnerabilities, understanding application attack surfaces, and developing tools to automate security tasks.
+
+I enjoy exploring how systems work, breaking things in controlled environments, and documenting what I learn along the way.
+
+### Areas of Interest
+
+- Web Application Penetration Testing
+- Infrastructure Security
+- Bug Bounty & Vulnerability Research
+- Application Security
+- Security Automation & Python Scripting
+- Backend Development
+
+### Tools & Technologies
+
+**Offensive Security**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python" />
+</p>
+
+Burp Suite · Nuclei · Nmap · Nessus · OpenVAS
+
+**Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,redis,docker,git,github,c" />
+</p>
+
+### What You'll Find Here
+
+- Security research and technical writeups.
+- Python scripts and security automation tools.
+- Backend development projects.
+- CTF challenges and hands-on labs.
+- Personal experiments and learning projects.
+
+### GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorManuelLopezHenao&show_icons=true&theme=transparent&hide_border=true&title_color=00FF9C&icon_color=00FF9C" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorManuelLopezHenao&layout=compact&theme=transparent&hide_border=true&title_color=00FF9C" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Understand the system. Find the weakness. Improve the security."</i>
 </p>
