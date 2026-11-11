@@ -1,5 +1,5 @@
-# Victor López
-### Offensive Security | Penetration Testing | Security Research
+# V I M A
+### Offensive Security | Penetration Testing | Ethical Hacking
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-manuel-lopez-henao-727035367/">
@@ -65,24 +65,12 @@ My approach combines hands-on security research, technical problem-solving, and 
 
 `Python` · `FastAPI` · `MongoDB` · `Redis` · `Docker` · `Git`
 
-### Methodology
+### Practical Experience
 
-```text
-RECONNAISSANCE
-    └── Attack surface discovery
-
-ENUMERATION
-    └── Services, endpoints & technologies
-
-VULNERABILITY ANALYSIS
-    └── Identification & validation
-
-IMPACT ASSESSMENT
-    └── Exploitation within authorized scope
-
-REPORTING
-    └── Evidence, severity & remediation
-```
+- **370+ hands-on security labs** across TryHackMe and PortSwigger Web Security Academy.
+- **CTF competitions:** Practical experience in offensive security challenges and vulnerability exploitation.
+- **Bug Bounty:** Vulnerability research, testing, and responsible disclosure.
+- **Technical Writeups:** Documenting attack techniques, findings, and security research.
 
 ### Selected Work
 
@@ -92,20 +80,6 @@ My repositories document practical security research, technical experiments, and
 - Python tools and security automation.
 - CTF challenges and technical writeups.
 - Backend applications and engineering projects.
-
-### Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-manuel-lopez-henao-727035367/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
-  </a>
-  <a href="https://medium.com/@v.lopez9">
-    <img src="https://img.shields.io/badge/MEDIUM-0D1117?style=for-the-badge&logo=medium&logoColor=FFFFFF" />
-  </a>
-  <a href="mailto:v.lopez9@utp.edu.co">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-</p>
 
 <p align="center">
   <sub><code>Think like an attacker. Validate like an engineer. Secure by design.</code></sub>
