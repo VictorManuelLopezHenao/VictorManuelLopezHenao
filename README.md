@@ -24,8 +24,8 @@
 ┌──(vima㉿offensive)-[~/profile]
 └─$ whoami
 
-Victor López
-Offensive Security | Penetration Testing
+Victor Manuel López
+Ethical Hacker | Penetration Tester
 ```
 
 Systems and Computing Engineering student focused on **Offensive Security**, with practical experience in security assessments, vulnerability analysis, and web application testing.
