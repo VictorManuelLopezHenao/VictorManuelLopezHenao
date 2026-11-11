@@ -1,13 +1,23 @@
-# `vima.h4ck` — Offensive Security
+# Victor López
+### Offensive Security | Penetration Testing | Security Research
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Offensive+Security+%2F%2F+Penetration+Testing;Web+Application+Security;Infrastructure+Assessment;Vulnerability+Research+%26+Automation" alt="Terminal typing animation" />
+  <a href="https://www.linkedin.com/in/victor-manuel-lopez-henao-727035367/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-58A6FF?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@v.lopez9">
+    <img src="https://img.shields.io/badge/Medium-Writeups-B1BAC4?style=flat-square&logo=medium&logoColor=black" />
+  </a>
+  <a href="https://www.instagram.com/vima.h4ck/">
+    <img src="https://img.shields.io/badge/Instagram-vima.h4ck-E0A4C8?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:v.lopez9@utp.edu.co">
+    <img src="https://img.shields.io/badge/Email-Contact-B1BAC4?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-00FF9D?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY-00FF9D?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/BASED_IN-COLOMBIA-8B949E?style=flat-square&labelColor=0D1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Offensive+Security+%2F%2F+Penetration+Testing;Web+Application+Security;Infrastructure+Assessment;Vulnerability+Research+%26+Automation" alt="Offensive Security" />
 </p>
 
 ```bash
@@ -26,7 +36,7 @@ My approach combines hands-on security research, technical problem-solving, and 
 
 ---
 
-### `01 // AREAS OF FOCUS`
+### Areas of Expertise
 
 | Domain | Focus |
 |:---|:---|
@@ -37,9 +47,9 @@ My approach combines hands-on security research, technical problem-solving, and 
 | **Security Automation** | Python scripting, reconnaissance workflows |
 | **Backend Engineering** | REST APIs, application architecture |
 
-### `02 // TECHNICAL ARSENAL`
+### Technical Stack
 
-**OFFENSIVE SECURITY**
+**Offensive Security**
 
 <p>
   <img src="https://skillicons.dev/icons?i=kali,linux,bash" />
@@ -47,7 +57,7 @@ My approach combines hands-on security research, technical problem-solving, and 
 
 `Burp Suite` · `Nmap` · `Nuclei` · `Nessus` · `OpenVAS` · `Metasploit`
 
-**DEVELOPMENT & AUTOMATION**
+**Development & Automation**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,redis,docker,git,github" />
@@ -55,57 +65,45 @@ My approach combines hands-on security research, technical problem-solving, and 
 
 `Python` · `FastAPI` · `MongoDB` · `Redis` · `Docker` · `Git`
 
-### `03 // METHODOLOGY`
+### Methodology
 
 ```text
-01. RECONNAISSANCE
+RECONNAISSANCE
     └── Attack surface discovery
 
-02. ENUMERATION
+ENUMERATION
     └── Services, endpoints & technologies
 
-03. VULNERABILITY ANALYSIS
+VULNERABILITY ANALYSIS
     └── Identification & validation
 
-04. IMPACT ASSESSMENT
+IMPACT ASSESSMENT
     └── Exploitation within authorized scope
 
-05. REPORTING
+REPORTING
     └── Evidence, severity & remediation
 ```
 
-### `04 // SELECTED WORK`
+### Selected Work
 
-This profile documents my practical work and technical development:
+My repositories document practical security research, technical experiments, and software development.
 
-- **Security Research:** Vulnerability analysis and technical investigations.
-- **Automation:** Python scripts and tools for security workflows.
-- **CTF & Labs:** Hands-on challenges, methodologies and writeups.
-- **Development:** Backend applications and engineering projects.
+- Security research and vulnerability analysis.
+- Python tools and security automation.
+- CTF challenges and technical writeups.
+- Backend applications and engineering projects.
 
-Explore my repositories to see my work in practice.
-
-### `05 // GITHUB ACTIVITY`
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VictorManuelLopezHenao&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=C9D1D9&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorManuelLopezHenao&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=C9D1D9" />
-</p>
-
-### `06 // CONNECT`
+### Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-manuel-lopez-henao-727035367/">
-    <img src="https://img.shields.io/badge/LINKEDIN-00FF9D?style=flat-square&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
   </a>
   <a href="https://medium.com/@v.lopez9">
-    <img src="https://img.shields.io/badge/MEDIUM-00FF9D?style=flat-square&logo=medium&logoColor=black" />
-  </a>
-  <a href="https://www.instagram.com/vima.h4ck/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-00FF9D?style=flat-square&logo=instagram&logoColor=black" />
+    <img src="https://img.shields.io/badge/MEDIUM-0D1117?style=for-the-badge&logo=medium&logoColor=FFFFFF" />
   </a>
   <a href="mailto:v.lopez9@utp.edu.co">
-    <img src="https://img.shields.io/badge/EMAIL-00FF9D?style=flat-square&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
